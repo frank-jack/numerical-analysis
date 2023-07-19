@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ThreeDRiemannSum
+comment1.params=x\ y
+comment1.target=double\ f(double,\ double)
+comment2.params=dx\ dy\ xMin\ xMax\ yMin\ yMax
+comment2.target=double\ ThreeDRec(double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=dx\ dy\ xMin\ xMax\ yMin\ yMax
+comment3.target=double\ ThreeDTrap(double,\ double,\ double,\ double,\ double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

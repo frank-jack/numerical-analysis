@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GaussianElimination
+comment1.params=
+comment1.target=GaussianElimination()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=matrix\ termNum
+comment3.target=java.util.ArrayList\ fillRandom(java.util.ArrayList,\ int)
+comment4.params=matrix\ termNum
+comment4.target=java.util.ArrayList\ fillVisual(java.util.ArrayList,\ int)
+comment5.params=matrix\ termNum
+comment5.target=java.util.ArrayList\ gaussianElimination(java.util.ArrayList,\ int)
+comment6.params=matrix
+comment6.target=void\ printThis(java.util.ArrayList)
+numComments=7

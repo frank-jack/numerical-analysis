@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Determinant
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=matrix
+comment2.target=double\ determinant(java.util.ArrayList)
+comment3.params=matrix
+comment3.target=double\ determinantDebugger(java.util.ArrayList)
+numComments=4

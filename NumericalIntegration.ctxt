@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NumericalIntegration
+comment1.params=x
+comment1.target=double\ f(double)
+comment2.params=dx\ xMin\ xMax
+comment2.target=double\ leftRiemannSum(double,\ double,\ double)
+comment3.params=dx\ xMin\ xMax
+comment3.target=double\ trapazoidalSum(double,\ double,\ double)
+comment4.params=dx\ xMin\ xMax
+comment4.target=double\ simpsonsOneThirdRule(double,\ double,\ double)
+comment5.params=dx\ xMin\ xMax
+comment5.target=double\ simpsonsThreeEightsRule(double,\ double,\ double)
+comment6.params=dx\ xMin\ xMax
+comment6.target=double\ simpsonsTwoFortyFifthsRule(double,\ double,\ double)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
