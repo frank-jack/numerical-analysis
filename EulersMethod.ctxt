@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=EulersMethod
-comment1.params=x\ y
-comment1.target=double\ dydx(double,\ double)
-comment2.params=x\ y\ stepSize
-comment2.target=double\ euler(double,\ double,\ double)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
